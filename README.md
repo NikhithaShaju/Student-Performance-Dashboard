@@ -53,4 +53,4 @@ This project uses fictional sample student records for demonstration and learnin
 ## Author
 Nikhitha Shaju
 
-B.Tech Computer Science and Engineering Graduate (2025)
+B.Tech Computer Science and Engineering Graduate 
